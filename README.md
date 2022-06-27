@@ -10,11 +10,11 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </h1>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=secretcryptoexpert.secretcryptoexpert" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bc-expert.bc-expert" />
 <img align="right" src="https://img.shields.io/github/followers/secretcryptoexpert?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=secretcryptoexpert&count_private=true&show_icons=true&theme=chartreuse-dark" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secretcryptoexpert&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=bc-expert&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bc-expert&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px><h2 font-weight="bold">About me</h2>  
 
@@ -79,7 +79,7 @@ I have a good understanding of decentralized technologies such as Ethereum, Bina
 <a target="_blank"><img align="left" height="200" width="200" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Git profile Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=secretcryptoexpert&layout=compact&theme=algolia" alt="secretcryptoexpert" width="600px"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bc-expert&layout=compact&theme=algolia" alt="bc-expert" width="600px"/></a> </p>
 
 
 <p align="center">
