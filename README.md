@@ -23,12 +23,13 @@
 
 <br><br>
 
-- 👨🏽‍💻 I’m currently working on Blockchain project;
-- 🌱 I’m currently learning Rust; 
-- 💬 Ask me about anything, I am happy to help;
-- I am a senior blockchain developer with a solid backgroundin different programming areas. Looking to take a part in a challenging project
-related to blockchain and cryptocurrencies.
-I have a good understanding of decentralized technologies such as Ethereum, Binance, Avalanche, and Polygon and have done many projects in those fields. I have a lot of experience and practical expertise in smart contract development, creating tests for Ethereum.
+## :sassy_man:  About me
+- :school: Passionate and skilled Blockchain Developer offering 6 years of relevant experience and a proven track record of success in achieving extraordinary results. With strong attention to detail and accuracy and the important ability to function well in a team setting, David is looking for a Blockchain Developer job within a forward-moving company.
+- :technologist: I love using Software as a solution for every `Problem`
+- :computer: I am a competitive programmer mainly at `Codeforces`
+- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
+- :thinking: 
+- :nerd_face: Always `learning new things`
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
