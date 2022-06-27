@@ -15,7 +15,7 @@
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=bc-expert&count_private=true&show_icons=true&theme=chartreuse-dark" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bc-expert&layout=compact&theme=chartreuse-dark&langs_count=8" />
-<img height="80" />
+<img height="150" />
 <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><h2 font-weight="bold">About me</h2>  
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
